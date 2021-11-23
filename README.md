@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jwd-analyst
+- 👋 Hi, I’m Jannik
 - 👀 I’m interested in Python, R, Programming, Data-Analytics, SEO, Website Performance
 - 🌱 I’m currently learning Python and Data-Analytics
 
